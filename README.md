@@ -1,5 +1,4 @@
 # Stress test
-- ***NEW*** [Makefile](https://github.com/nuoxoxo/sea/issues/270) 
 - ***NEW*** strncmp passes trip and warm whatever the return
 - ***NEW*** strlcpy solved for trip
 - ***NEW*** split solved for warm && trip
