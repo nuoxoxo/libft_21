@@ -1,4 +1,4 @@
-# Unit tests
+# Stress test
 - ***NEW*** #270 
 - ***NEW*** strncmp passes trip and warm whatever the return
 - ***NEW*** strlcpy solved for trip
