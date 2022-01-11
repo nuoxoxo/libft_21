@@ -1,6 +1,3 @@
-![made in c](http://ForTheBadge.com/images/badges/made-with-c.svg)
-![built with love](http://ForTheBadge.com/images/badges/built-with-love.svg)
-
 ## Stress test
 - ***NEW*** strncmp passes trip and warm whatever the return
 - ***NEW*** strlcpy solved for trip
@@ -13,3 +10,7 @@
 - alelievr
   - ~~substr [💥 ]~~ fixed: `if (!s)` --x--> `strlen(s)`
   - ~~strtrim [💥 ]~~ fixed: idem
+<br>
+
+![made in c](http://ForTheBadge.com/images/badges/made-with-c.svg)
+![built with love](http://ForTheBadge.com/images/badges/built-with-love.svg)
