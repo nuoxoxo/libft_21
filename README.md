@@ -1,4 +1,7 @@
-# Stress test
+![made in c](http://ForTheBadge.com/images/badges/made-with-c.svg)
+![built with love](http://ForTheBadge.com/images/badges/built-with-love.svg)
+
+## Stress test
 - ***NEW*** strncmp passes trip and warm whatever the return
 - ***NEW*** strlcpy solved for trip
 - ***NEW*** split solved for warm && trip
